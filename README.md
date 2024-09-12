@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Samyak!  
 **Your friendly neighbourhood SAM :)**  
-<img src="https://media.giphy.com/media/HVRMLnGqOoXAjvT9v0/giphy.gif" width="250" align="right">
+<img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="200" align="right">
+
 
 
 I'm a passionate engineer who specializes in **Machine Learning** and **Artificial Intelligence**. I have gained nearly advanced-level expertise in these fields and love working on innovative solutions to complex problems. I'm also enthusiastic about **web development** and enjoy contributing to **open-source projects**. Here's a bit more about me:
