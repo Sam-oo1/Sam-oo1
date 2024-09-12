@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Samyak!  
 **Your friendly neighbourhood SAM :)**  
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" align="right">
+<img src="https://media.giphy.com/media/HVRMLnGqOoXAjvT9v0/giphy.gif" width="250" align="right">
+
 
 I'm a passionate engineer who specializes in **Machine Learning** and **Artificial Intelligence**. I have gained nearly advanced-level expertise in these fields and love working on innovative solutions to complex problems. I'm also enthusiastic about **web development** and enjoy contributing to **open-source projects**. Here's a bit more about me:
 
@@ -54,7 +55,7 @@ I'm a passionate engineer who specializes in **Machine Learning** and **Artifici
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam-oo1&show_icons=true&theme=radical" alt="GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-oo1&show_icons=true&theme=radical" alt="GitHub stats" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-oo1&layout=compact&theme=radical" alt="Top Languages" width="42%">
 </p>
 
