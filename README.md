@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Samyak!  
 **Your friendly neighbourhood SAM :)**  
-<img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="200" align="right">
+<img src="https://media.giphy.com/media/1gdwRmuhzOcooQ2b8G/giphy.gif" width="400" align="right">
 
 
 
