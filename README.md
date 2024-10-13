@@ -2,16 +2,14 @@
 **Your friendly neighbourhood SAM :)**  
 <img src="https://media.giphy.com/media/1gdwRmuhzOcooQ2b8G/giphy.gif" width="400" align="right">
 
-
-
-I'm a passionate engineer who specializes in **Machine Learning** and **Artificial Intelligence**. I have gained nearly advanced-level expertise in these fields and love working on innovative solutions to complex problems. I'm also enthusiastic about **web development** and enjoy contributing to **open-source projects**. Here's a bit more about me:
+I'm a passionate engineer who specializes in **Machine Learning** and **Artificial Intelligence**. I have gained **intermediate-level expertise** in these fields and love working on innovative solutions to complex problems. I'm also enthusiastic about **web development** and enjoy contributing to **open-source projects**. My **deep passion for robotics** drives me to explore how AI can enhance robotic systems and create smarter solutions. Here's a bit more about me:
 
 - 🌱 **Currently Learning:** Advanced deep learning techniques, deployment of AI models on cloud platforms, and the latest Data Science methodologies.
-- 🔭 **Working On:** Developing and optimizing machine learning models, analyzing large datasets, and contributing to AI research.
-- 💡 **Interests:** Machine Learning, Artificial Intelligence, Deep Learning, Data Science.
-- 💬 **Ask me about:** AI/ML, Python, Data Science
+- 🔭 **Working On:** Developing and optimizing machine learning models, analyzing large datasets, and contributing to AI research, alongside my exciting robotics projects.
+- 💡 **Interests:** Machine Learning, Artificial Intelligence, Deep Learning, Data Science, and **Robotics**—I love combining these fields to create innovative robotic solutions!
+- 💬 **Ask me about:** AI/ML, Python, Data Science, Robotics.
 - 📫 **How to Reach Me:** Email me at [samyakdhole2002@gmail.com](mailto:samyakdhole2002@gmail.com)
-- 👯 **Looking to Collaborate On:** AI research, ML projects, Open-source contributions, Hackathons  
+- 👯 **Looking to Collaborate On:** AI research, ML projects, Open-source contributions, Hackathons, and robotics initiatives.
 
 ---
 
