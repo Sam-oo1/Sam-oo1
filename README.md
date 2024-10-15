@@ -64,11 +64,13 @@ I'm a passionate engineer who specializes in **Machine Learning** and **Artifici
 
 Here are some of the projects I'm most proud of:
 
+- [**Face Emotion Recognition**]([https://github.com/Sam-oo1/FaceEmotion](https://github.com/Sam-oo1/FaceEmotionRecognition)) - A deep learning-based model for detecting human emotions from facial expressions, using Convolutional Neural Networks (CNNs) for real-time emotion recognition.
+
 - [**Bird Classification using CNN (InceptionV3)**](https://github.com/Sam-oo1/wisdomsprout_intp) - This project aims to classify bird species using Convolutional Neural Networks (CNNs) with the InceptionV3 architecture. The trained model can recognize and distinguish between various bird species based on input images.
 
 - [**Loan Prediction**](https://github.com/Sam-oo1/CodeClauseInternship_LoanPrediction) - This project, developed during my internship at CodeClause, focuses on predicting loan approval based on customer behavior using machine learning.
 
-- [**Road Lane Detection**](https://github.com/Sam-oo1/CodeClauseInternship_Road_lane_detection) - This project, developed during my internship at CodeClause, focuses on predicting road lanes using OpenCV.
+.
 
 ---
 
