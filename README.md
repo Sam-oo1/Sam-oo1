@@ -40,6 +40,8 @@ I'm a passionate engineer who specializes in **Machine Learning** and **Artifici
   <img src="https://img.shields.io/badge/-Matplotlib-003D66?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seaborn-FF8C00?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SpaCy-2B3A2A?style=for-the-badge&logo=spaCy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLTK-5E76E6?style=for-the-badge&logo=nltk&logoColor=white" />
 </p>
 
 ### Tools & Platforms
