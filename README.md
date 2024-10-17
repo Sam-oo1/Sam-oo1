@@ -89,6 +89,3 @@ Here are some of the projects I'm most proud of:
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-Thanks for visiting my profile! 😊  
-<img src="https://media.giphy.com/media/1jY5xnxXQeE3L2WwJM/giphy.gif" width="100" />
