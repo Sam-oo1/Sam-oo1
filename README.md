@@ -41,6 +41,7 @@ I'm a passionate engineer who specializes in **Machine Learning** and **Artifici
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-SpaCy-2B3A2A?style=for-the-badge&logo=spaCy&logoColor=white" />
   <img src="https://img.shields.io/badge/-NLTK-5E76E6?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### Tools & Platforms
